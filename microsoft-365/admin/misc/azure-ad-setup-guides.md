@@ -34,16 +34,16 @@ You must be a member of the following administrative roles:
 
 - Global reader: allows you to view the setup guides but not make changes in your tenant.
 
-## Identity security for Teams
+## Secure user identities in ‎Microsoft Entra ID‎
 
 Microsoft Entra ID is our cloud-based identity and access management service, which helps your employees sign in and access apps and services.
-This catalog contains some basic security features you can use to ensure your users are safe and have the most productive time using Teams.
+This catalog contains some basic security features you can use to ensure your users are safe and secure using Microsoft Entra ID
 
 ### Licensing
 
 Using features in this catalog requires either Microsoft Entra ID Governance or Microsoft Entra ID P2 license. To find the right license for your requirements, see [Compare generally available features of Microsoft Entra ID](https://www.microsoft.com/security/business/identity-access-management/azure-ad-pricing).
 
-[Open the Identity security for Teams catalog](https://portal.office.com/AdminPortal/home?Q=azuredocs#/teamsidentity)
+[Open Secure user identities in ‎Microsoft Entra ID‎](https://portal.office.com/AdminPortal/home?Q=azuredocs#/teamsidentity)
 
 ## Identity Governance
 
